@@ -1,0 +1,20 @@
+body {
+    color: crimson;
+    background-color: lightgray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+}
+
+#WPI {
+    text-align: center;
+}
+
+.squarebullets {
+    list-style-type: none;
+}
